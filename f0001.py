@@ -1,0 +1,2 @@
+#első fel.
+print('SZia')
